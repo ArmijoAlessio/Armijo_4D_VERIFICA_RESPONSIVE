@@ -1,0 +1,9 @@
+@media only screen and (max-width:768px) {
+  
+  .menu, .ifr {
+    width:50%;
+  }
+  .right {
+    width:100%;
+  }
+}
